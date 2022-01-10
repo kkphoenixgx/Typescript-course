@@ -1,6 +1,6 @@
 # Primeiras aulas simples de typescript
 
-Mod 1 a 8 -- **03/12/21**
+Mod 1 a 8 -- **03/01/22**
 
 ## Como instalar o ambiente de desenvolvimento
 
