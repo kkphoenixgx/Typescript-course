@@ -21,3 +21,7 @@ podemos transformar um arquivo ts em js
 * por adicionar tipagem ao js, cria fácil implementação de design patterns.
 
 * Ele pode perceber quanto tem variáveis ou constantes com o mesmo nome e se um for uma constante, ele vai assimilar como um possível erro.
+
+Mod 8 após instalação -- **10/01/22**
+
+Para ver a versão do typescript podemos usar tsc --version, e eles falaram a mesma coisa do que no curso de design patterns, rodaram o tsc para transformar um arquivo ts em js. Então prefiri só olhar
