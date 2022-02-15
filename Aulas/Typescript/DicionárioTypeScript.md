@@ -9,6 +9,24 @@ var nome:string = "Kauã"
 var number:number = 10;
 ~~~
 
+* Types
+
+  | **Tipo**    | **significado**                                               |
+  | ----------- | ------------------------------------------------------------- |
+  | string *    | Linha de texto = "String"                                     |
+  | number *    | número = 21                                                   |
+  | boolean *   | tem um valor de true or false                                 |
+  | array *     | junção de várias variáveis do mesmo tipo = ["name", 21, true] |
+  | tuple       | Um array que possuí um número especifico de itens             |
+  | object *    | um objeto = { x: "value" }                                    |
+  | enum        | Uma coleção de constantes com valores definidos               |
+  | null *      | Um dado que não possuí valor                                  |
+  | undefined * | valor indefinido                                              |
+  | any         | uma informação de tipo desconhecido                           |
+  | unknown     | uma informação de tipo desconhecido                           |
+  | void        | Informação vazia                                              |
+  | never       | Um valor que nunca existirá                                   |
+
 ## Classes em ts
 
 ## Comandos de configuração
