@@ -16,3 +16,5 @@ var number:number = 10;
 ## Notas
 
 Existe o arquivo **tsconfig.json** que podemos fazer todas as configurações do meu projeto que é todo escrito em json
+
+Usamos tsc --init para criar um arquivo base de configurações
