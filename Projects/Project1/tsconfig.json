@@ -19,24 +19,6 @@
 
     /* Type Checking */
     "strict": true,                                      /* Enable all strict type-checking options. */
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
     /* Completeness */
     "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
