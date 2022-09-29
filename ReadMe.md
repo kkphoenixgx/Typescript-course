@@ -1,6 +1,6 @@
 # TypeScript repository
 
-Welcome to my Typescript repository, this repository is made for my notes and projects that I made on my TypeScript course, this repository is made with my country language that is Brazilian portuguese, so if you do not know that language, I am sorry but my notes in that repository is not made to you but if you want, please checkout my projects folder and have in mind that I did it in the course with a professor teaching me.
+Welcome to my Typescript repository, this repository is made for my tests and projects that I made on my TypeScript course, this repository is made with my country language that is Brazilian portuguese, so if you do not know that language, I am sorry but my tests in that repository is not made to you but if you want, please checkout my projects folder and have in mind that I did it in the course with a professor teaching me.
 
 -------
 
