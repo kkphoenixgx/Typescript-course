@@ -7,8 +7,8 @@
    
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */
-    "rootDir": "./scripts",                              /* Specify the root folder within your source files. */
-  
+    "rootDir": "./js",                              /* Specify the root folder within your source files. */
+    
     /* Emit */
     "sourceMap": true,                                   /* Create source map files for emitted JavaScript files. */ 
     "outDir": "./output",                                /* Specify an output folder for all emitted files. */
