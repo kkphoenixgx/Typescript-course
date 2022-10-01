@@ -8,11 +8,10 @@
    
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */
-    "rootDir": "./js",                              /* Specify the root folder within your source files. */
-    
+  
     /* Emit */
     "sourceMap": true,                                   /* Create source map files for emitted JavaScript files. */ 
-    "outDir": "./output",                                /* Specify an output folder for all emitted files. */
+    "outDir": "./js",                                /* Specify an output folder for all emitted files. */
   
     /* Interop Constraints */ 
     "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables `allowSyntheticDefaultImports` for type compatibility. */
